@@ -1,2 +1,2 @@
-# My codes from Amazon
+# Codes from Amazon
 
